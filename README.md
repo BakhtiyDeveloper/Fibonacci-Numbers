@@ -17,3 +17,7 @@ The program consists of the following sections.
 2. The main calculation section of the program.
 
 ![main section](/images/image2.png)
+
+3. Result.
+
+![result](/images/image3.png)
